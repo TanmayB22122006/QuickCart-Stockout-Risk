@@ -44,8 +44,8 @@ Make sure you have the required Python libraries installed:
 * Run the cells sequentially to observe data loading, cleaning, temporal splitting, and final model evaluation.
 
 ### Important links:
-* 
-* `![Output](Output SS.png)`
+<img width="751" height="380" alt="Output SS" src="https://github.com/user-attachments/assets/ff33ec9c-08ef-4c66-8538-10858652ccb4" />
+
 * `![Drive link](https://drive.google.com/drive/folders/1KIpN0EkZZUyeCc0IB6G0vhH_5H1mMbOi?usp=sharing)
 ### 👨‍💻 About the Author
 * Tanmay Purushottam Bokade
