@@ -31,17 +31,17 @@ Follow these instructions to set up and run the machine learning pipeline locall
    git clone https://github.com/TanmayB22122006/QuickCart-Stockout-Risk.git
    cd QuickCart-Stockout-Risk
 
-1) Install Required Libraries:
+2) Install Required Libraries:
 Make sure you have the required Python libraries installed:
    pip install pandas numpy scikit-learn jupyter
 
-2) Launch the Notebook:
+3) Launch the Notebook:
 
-3) Run the Analysis:
+4) Run the Analysis:
 
-*Open QuickCart_Stockout_Risk.ipynb in the Jupyter interface.
-*Ensure the 5 CSV datasets are in the same working directory.
-*Run the cells sequentially to observe data loading, cleaning, temporal splitting, and final model evaluation.
+* Open QuickCart_Stockout_Risk.ipynb in the Jupyter interface.
+* Ensure the 5 CSV datasets are in the same working directory.
+* Run the cells sequentially to observe data loading, cleaning, temporal splitting, and final model evaluation.
 
 *👨‍💻 About the Author
 *Tanmay Purushottam Bokade
