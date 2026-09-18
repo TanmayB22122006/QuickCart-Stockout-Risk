@@ -43,7 +43,7 @@ Make sure you have the required Python libraries installed:
 * Ensure the 5 CSV datasets are in the same working directory.
 * Run the cells sequentially to observe data loading, cleaning, temporal splitting, and final model evaluation.
 
-* 👨‍💻 About the Author
+###👨‍💻 About the Author
 * Tanmay Purushottam Bokade
 * Computer Engineering Student @ VESIT | Tech, AI & Data Enthusiast
 * Let's connect and build cool things!
